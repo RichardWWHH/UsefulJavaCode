@@ -1,2 +1,2 @@
 # UsefulJavaCode
-## This is a Tutorial Java Input / Output Coding tricks.
+## This REPO contains a Tutorial Java Input / Output Coding tricks.
