@@ -1,2 +1,2 @@
-# Useful Java Code Snippets
-## This REPO contains a Tutorial Java Input / Output Coding tricks.
+# Some useful Java code snippets
+## This REPO contains a Tutorial on Java input / output coding tricks.
