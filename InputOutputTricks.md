@@ -7,16 +7,18 @@ Input Output Tricks On Java
 ## ** output: calculating the sum of this sequence
 #  */
 ### Code
+
 ```java
 import java.util.*;
 public class Main {
   public static void main(String[] args) {
-    Scanner sc = new Scanner(System.in);
-    while (sc.hasNext()) {
+      Scanner sc = new Scanner(System.in);
+      while (sc.hasNext()) {
     // Add your own operation here (添加你的操作)
     
-    }
+      }
    }
+
 }
 ```
 # *2. Limited size of inputs*
